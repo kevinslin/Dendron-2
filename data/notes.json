@@ -1,0 +1,444 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1641585534889,
+      "created": 1641585534889,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "5jYEnrzN6hGFE8UIGFZmq": {
+      "id": "5jYEnrzN6hGFE8UIGFZmq",
+      "title": "Root",
+      "desc": "",
+      "updated": 1640807033122,
+      "created": 1640807033123,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1e97f67e60a6c4b0219a05cdf1174404",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "aiaWfJC3yvQTNSJ10SXTm",
+        "mbPkOWfXM5LqiXhUTGQe0"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "mbPkOWfXM5LqiXhUTGQe0": {
+      "fname": "socialmedia",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1641585534822,
+      "created": 1641585534822,
+      "id": "mbPkOWfXM5LqiXhUTGQe0",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "fCU6OwltnUQ7pUgEDrM49"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Socialmedia"
+    },
+    "fCU6OwltnUQ7pUgEDrM49": {
+      "id": "fCU6OwltnUQ7pUgEDrM49",
+      "title": "pazurekSocialMediaConnected2021",
+      "desc": "",
+      "updated": 1641367291230,
+      "created": 1641367264205,
+      "custom": {},
+      "fname": "socialmedia.pazurekSocialMediaConnected2021",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3db24db66a28228959c7b59a9c075361",
+      "links": [],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "mbPkOWfXM5LqiXhUTGQe0",
+      "data": {}
+    },
+    "aiaWfJC3yvQTNSJ10SXTm": {
+      "id": "aiaWfJC3yvQTNSJ10SXTm",
+      "title": "Cognitiveload",
+      "desc": "",
+      "updated": 1640807759637,
+      "created": 1640807481025,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "cognitiveload",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7a5e91689e1154c83a29dd1ece0fb781",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "cognitiveload",
+            "id": "aiaWfJC3yvQTNSJ10SXTm",
+            "vaultName": "vault"
+          },
+          "value": "cognitiveload.swellerCognitiveLoadTheory1994",
+          "alias": "cognitiveload.swellerCognitiveLoadTheory1994",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 49,
+              "offset": 49
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "cognitiveload.swellerCognitiveLoadTheory1994"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "cognitiveload",
+            "id": "aiaWfJC3yvQTNSJ10SXTm",
+            "vaultName": "vault"
+          },
+          "value": "cognitiveload.larmuseauMultimodalLearningAnalytics2020",
+          "alias": "cognitiveload.larmuseauMultimodalLearningAnalytics2020",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 53
+            },
+            "end": {
+              "line": 4,
+              "column": 59,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "cognitiveload.larmuseauMultimodalLearningAnalytics2020"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "tXRGL9EkMtG2vhYsxky2q",
+        "oSwcUHjm2YZBOqQzZTOIC"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {}
+    },
+    "oSwcUHjm2YZBOqQzZTOIC": {
+      "id": "oSwcUHjm2YZBOqQzZTOIC",
+      "title": "swellerCognitiveLoadTheory1994",
+      "desc": "",
+      "updated": 1640895456608,
+      "created": 1640807481000,
+      "custom": {},
+      "fname": "cognitiveload.swellerCognitiveLoadTheory1994",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "648cca40fbe7f1bd083b7b07b8983528",
+      "links": [
+        {
+          "from": {
+            "fname": "cognitiveload",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 49,
+              "offset": 49
+            },
+            "indent": []
+          },
+          "value": "cognitiveload.swellerCognitiveLoadTheory1994",
+          "alias": "cognitiveload.swellerCognitiveLoadTheory1994"
+        }
+      ],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "p296": {
+          "type": "header",
+          "text": "p296",
+          "value": "p296",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "schemas": {
+          "type": "header",
+          "text": "Schemas",
+          "value": "schemas",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "p297": {
+          "type": "header",
+          "text": "p297",
+          "value": "p297",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "automation-of-intellectual-operations": {
+          "type": "header",
+          "text": "Automation of Intellectual Operations",
+          "value": "automation-of-intellectual-operations",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "what-is-the-function-of-learning": {
+          "type": "header",
+          "text": "What is the Function of Learning?",
+          "value": "what-is-the-function-of-learning",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "p299": {
+          "type": "header",
+          "text": "p299",
+          "value": "p299",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "facilitating-learning-and-problem-solving": {
+          "type": "header",
+          "text": "Facilitating Learning and Problem Solving",
+          "value": "facilitating-learning-and-problem-solving",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "aiaWfJC3yvQTNSJ10SXTm",
+      "data": {}
+    },
+    "tXRGL9EkMtG2vhYsxky2q": {
+      "id": "tXRGL9EkMtG2vhYsxky2q",
+      "title": "larmuseauMultimodalLearningAnalytics2020",
+      "desc": "",
+      "updated": 1640807554761,
+      "created": 1640807554761,
+      "custom": {},
+      "fname": "cognitiveload.larmuseauMultimodalLearningAnalytics2020",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2750a3890e8757936442ed144905c780",
+      "links": [
+        {
+          "from": {
+            "fname": "cognitiveload",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 53
+            },
+            "end": {
+              "line": 4,
+              "column": 59,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "value": "cognitiveload.larmuseauMultimodalLearningAnalytics2020",
+          "alias": "cognitiveload.larmuseauMultimodalLearningAnalytics2020"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "aiaWfJC3yvQTNSJ10SXTm",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "5jYEnrzN6hGFE8UIGFZmq",
+      "title": "Root",
+      "desc": "",
+      "updated": 1640807033122,
+      "created": 1640807033123,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1e97f67e60a6c4b0219a05cdf1174404",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "aiaWfJC3yvQTNSJ10SXTm",
+        "mbPkOWfXM5LqiXhUTGQe0"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "5jYEnrzN6hGFE8UIGFZmq",
+    "title": "Root",
+    "desc": "",
+    "updated": 1640807033122,
+    "created": 1640807033123,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "1e97f67e60a6c4b0219a05cdf1174404",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "lookup": {
+        "type": "header",
+        "text": "Lookup",
+        "value": "lookup",
+        "line": 11,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "aiaWfJC3yvQTNSJ10SXTm",
+      "mbPkOWfXM5LqiXhUTGQe0"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
